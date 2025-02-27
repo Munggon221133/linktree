@@ -1,2 +1,2 @@
 # linktree
-🌿 My First Linktree Project
+🌿 My First Linktree
